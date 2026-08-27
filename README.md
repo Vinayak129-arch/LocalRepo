@@ -1,2 +1,1 @@
-<<<<<<< HEAD
-# this is a new readme .file
+#this is new repository.
